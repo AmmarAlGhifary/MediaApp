@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="breaking">Breaking News</string>
+    <string name="saved">Saved News</string>
+    <string name="search">Search News</string>
+    <string name="recom">Recommend News</string>
+    <string name="news">Smart News</string>
+    <string name="date">Date</string>
+    <string name="sc">Source</string>
+    <string name="sc_bg">SOURCE</string>
+    <string name="visit">Visit web link</string>
+    <string name="desc_float">FloatingShareButton</string>
+    <string name="desc_save">FloatingSaveButton</string>
+    <string name="content_sm">Content</string>
+    <string name="content_bg">CONTENT</string>
+    <string name="desc">Description</string>
+    <string name="desc_bg">DESCRIPTION</string>
+    <string name="author">Author</string>
+    <string name="author_bg">AUTHOR</string>
+    <string name="title">Title</string>
+    <string name="title_bg">TITLE</string>
+    <string name="smart">Smart News</string>
+    <string name="publish">PUBLISHED AT</string>
+    <string name="failed_to_connect">Failed to connect</string>
+    <string name="retry">Retry</string>
+</resources>
